@@ -1,0 +1,2 @@
+# Ignore (not consider for version control) macOS's Finder metadata files
+.DS_Store
