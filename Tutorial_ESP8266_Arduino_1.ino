@@ -27,7 +27,7 @@ void setup() {
   while (WiFi.status() != WL_CONNECTED) {  //Esperamos hasta que se conecte.
     delay(200);
   }
-
+// lsdfem'vw'm;wel,m;le,;wtl,;ldf,vm;d,w;mg'smvwelkngwr
   Serial.print ("Conectado, IP: ");
   Serial.println (WiFi.localIP());
 
